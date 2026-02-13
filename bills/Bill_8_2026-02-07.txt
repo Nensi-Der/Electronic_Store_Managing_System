@@ -1,0 +1,14 @@
+Sales Receipt
+Bill Number: 8
+Buyer: Lejda
+Date: 2026-02-07
+Created by: Lara.Jane
+
+Items:
+ID: 1234Item name: iPhone 20Brand: ApplePrice:1200.0
+ID: PH-001Item name: iPhone 14 ProBrand: ApplePrice:1100.0Phone model: A2890 Phone storage2565G phone
+ID: TV-001Item name: Smart TVBrand: LGPrice:700.0 Screen Size:55Resolution: 4K Is smart TV
+
+Total (before discount): 3000.0
+Discount: 358.84
+Price after discount: 2641.16

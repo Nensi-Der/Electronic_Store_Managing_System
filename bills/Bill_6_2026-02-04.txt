@@ -1,0 +1,13 @@
+Sales Receipt
+Bill Number: 6
+Buyer: Treeeea
+Date: 2026-02-04
+Created by: Lara.Jane
+
+Items:
+ID: PH-001Item name: iPhone 14 ProBrand: ApplePrice:1100.0Phone model: A2890 Phone storage2565G phone
+ID: PH-002Item name: Galaxy S23Brand: SamsungPrice:950.0Phone model: SM-S911B Phone storage1285G phone
+
+Total (before discount): 2050.0
+Discount: 0.0
+Price after discount: 2050.0

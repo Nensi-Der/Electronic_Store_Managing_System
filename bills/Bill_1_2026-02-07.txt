@@ -1,0 +1,12 @@
+Sales Receipt
+Bill Number: 1
+Buyer: Ilir
+Date: 2026-02-07
+Created by: Lara.Jane
+
+Items:
+ID: PH-002Item name: Galaxy S23Brand: SamsungPrice:950.0Phone model: SM-S911B Phone storage1285G phone
+
+Total (before discount): 950.0
+Discount: 180.5
+Price after discount: 769.5

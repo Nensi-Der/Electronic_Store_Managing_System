@@ -1,0 +1,9 @@
+Sales Receipt
+Bill Number: 2
+Buyer: John Doe
+Date: 2026-02-01
+
+Items:
+ID: PH-003Item name: Pixel 8Brand: GooglePrice:850.0Phone model: G9BQD Phone storage1285G phone
+
+Total: 500.0

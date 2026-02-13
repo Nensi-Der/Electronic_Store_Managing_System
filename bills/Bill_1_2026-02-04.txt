@@ -1,0 +1,15 @@
+Sales Receipt
+Bill Number: 1
+Buyer: Hajdi
+Date: 2026-02-04
+Created by: Lara.Jane
+
+Items:
+ID: PH-001Item name: iPhone 14 ProBrand: ApplePrice:1100.0Phone model: A2890 Phone storage2565G phone
+ID: PH-001Item name: iPhone 14 ProBrand: ApplePrice:1100.0Phone model: A2890 Phone storage2565G phone
+ID: PH-001Item name: iPhone 14 ProBrand: ApplePrice:1100.0Phone model: A2890 Phone storage2565G phone
+ID: TV-001Item name: Smart TVBrand: LGPrice:700.0 Screen Size:55Resolution: 4K Is smart TV
+
+Total (before discount): 4000.0
+Discount: 1056.0
+Price after discount: 2944.0

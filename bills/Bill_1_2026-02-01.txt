@@ -1,0 +1,10 @@
+Sales Receipt
+Bill Number: 1
+Buyer: Walk-in customer
+Date: 2026-02-01
+
+Items:
+ID: PH-001Item name: iPhone 14 ProBrand: ApplePrice:1100.0Phone model: A2890 Phone storage2565G phone
+ID: PH-002Item name: Galaxy S23Brand: SamsungPrice:950.0Phone model: SM-S911B Phone storage1285G phone
+
+Total: 1450.0
