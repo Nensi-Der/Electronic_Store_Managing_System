@@ -3,7 +3,7 @@
 
 Login info
 1)Cashier: 
-Username-Lara.Jane Password: Lara.Jane
+Username-Cashier.Demo Password: Cashier.Demo
 2)Manager:
 Username-Demo.Manager Password: Demo.Manager
 3)Administrator
